@@ -1,0 +1,35 @@
+#pdf-signature-overlay {
+  cursor: crosshair !important;
+}
+
+#pdf-signature-preview {
+  pointer-events: none;
+  position: absolute;
+  z-index: 10000;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.signature-placeholder {
+  position: absolute;
+  border: 2px dashed #2563eb;
+  background: rgba(37, 99, 235, 0.1);
+  pointer-events: none;
+  z-index: 9999;
+}
+
+.signature-text {
+  position: absolute;
+  pointer-events: none;
+  z-index: 9999;
+  white-space: nowrap;
+}
+
+.signature-date {
+  position: absolute;
+  pointer-events: none;
+  z-index: 9999;
+  font-size: 12px;
+  color: #64748b;
+}

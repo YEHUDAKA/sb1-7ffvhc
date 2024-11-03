@@ -1,0 +1,42 @@
+{
+  "extensionName": {
+    "message": "חותם PDF",
+    "description": "שם ההרחבה"
+  },
+  "extensionDescription": {
+    "message": "חתום על מסמכי PDF עם חתימות מותאמות אישית, חותמות וטקסט",
+    "description": "תיאור ההרחבה"
+  },
+  "uploadSignature": {
+    "message": "העלה חתימה",
+    "description": "כפתור העלאת חתימה"
+  },
+  "uploadStamp": {
+    "message": "העלה חותמת",
+    "description": "כפתור העלאת חותמת"
+  },
+  "saveSet": {
+    "message": "שמור ערכה",
+    "description": "כפתור שמירת ערכה"
+  },
+  "setName": {
+    "message": "שם הערכה",
+    "description": "תווית שם הערכה"
+  },
+  "customText": {
+    "message": "טקסט מותאם אישית",
+    "description": "תווית טקסט מותאם אישית"
+  },
+  "date": {
+    "message": "תאריך",
+    "description": "תווית תאריך"
+  },
+  "currentDate": {
+    "message": "תאריך נוכחי",
+    "description": "תווית תאריך נוכחי"
+  },
+  "customDate": {
+    "message": "תאריך מותאם אישית",
+    "description": "תווית תאריך מותאם אישית"
+  }
+}
